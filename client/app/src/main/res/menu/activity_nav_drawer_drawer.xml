@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_order"
+            android:icon="@drawable/order1"
+            android:title="Cafe Order from Desk" />
+        <item
+            android:id="@+id/view_order_status"
+            android:icon="@drawable/ic_border_color_black_24dp"
+            android:title="View Order Status" />
+
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title="Cart" />
+        <item
+            android:id="@+id/nav_show_rating"
+            android:icon="@drawable/rating"
+            android:title="Show Snacks Rating" />
+        <item
+            android:id="@+id/nav_give_rating"
+            android:icon="@drawable/rating1"
+            android:title="Give Snacks Rating" />
+        <item
+            android:id="@+id/nav_today_snacks"
+            android:icon="@drawable/snacks1"
+            android:title="Todays Snacks" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout1"
+            android:title="Logout" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

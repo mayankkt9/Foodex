@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#004d40</color>
+    <color name="colorPrimaryDark">#00251a</color>
+    <color name="colorAccent">#39796b</color>
+    <color name="google_blue">#F0F0F0</color>
+    <color name="btnsignup">#39796b</color>
+    <color name="btnsignactive">#A9D440</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <color name="overlayBackground">#7f333639</color>
+    <color name="overlayActionBar">#0d0e0d</color>
+
+</resources>

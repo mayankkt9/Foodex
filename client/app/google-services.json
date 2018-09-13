@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "932088668893",
+    "firebase_url": "https://ribboncafe-1881.firebaseio.com",
+    "project_id": "ribboncafe-1881",
+    "storage_bucket": "ribboncafe-1881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932088668893:android:89cf549bf0e084c0",
+        "android_client_info": {
+          "package_name": "ribboncafe.ribbon.com.ribboncafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932088668893-vcvbe6jk1d9ivmko3n8n3mkddtdici9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ribboncafe.ribbon.com.ribboncafe",
+            "certificate_hash": "473b0110d0549a997d0f56a84a0379547bbeae01"
+          }
+        },
+        {
+          "client_id": "932088668893-9on3n5tgf73dnsruih9qvt29qjnsnogg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyhjM03WY8ZCXmAPdM8w9fdqkeZB3F5zU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932088668893-9on3n5tgf73dnsruih9qvt29qjnsnogg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
