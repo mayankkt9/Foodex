@@ -9,8 +9,6 @@ Server Application - Takes order
 Client Application - Gives order
 
 
-
-
 <table border="0">
  <tr>
     <td><b style="font-size:20px">Client Order</b></td>
@@ -33,6 +31,12 @@ Client Application - Gives order
     <td><img src="./resource/server_order_manage.gif" alt="Size Limit CLI" width="200" height="400"></td>
  </tr>
 </table>
+
+
+### Firebase Push Notification
+<p align="center">
+  <img src="./resource/Push_Notification.png" alt="Push Notification" width="1000" height="600">
+</p>
 
 #### Reference
 EDMTDev
