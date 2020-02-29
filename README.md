@@ -19,7 +19,7 @@ Client Application - Gives order
  </tr>
  <tr>
     <td><img src="./resource/Food_place_order_client.gif" alt="Size Limit CLI" width="200" height="400"></td>
-    <td><img src="./resource/client_order_manage.gif" alt="Size Limit CLI" width="200" height="400"> <img src="./resource/server_order_manage.gif" alt="Size Limit CLI" width="200" height="400"></td>
+    <td><img src="./resource/client_order_manage.gif" alt="Size Limit CLI" width="150" height="400"> <img src="./resource/server_order_manage.gif" alt="Size Limit CLI" width="150" height="400"></td>
     <td><img src="./resource/food_rating.gif" alt="Size Limit CLI" width="200" height="400"></td>
  </tr>
 </table>
