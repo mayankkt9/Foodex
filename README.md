@@ -1,4 +1,3 @@
-Food
 # Cafeteria
 
 ## Introduction
