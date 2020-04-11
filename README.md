@@ -5,6 +5,7 @@
 Cafeteria is a food ordering android application where client and server send and receive orders. Employee can view their past orders and current food items present in the cafeteria and book accordingly. Server application can accept or reject order according to the availability. Firebase is used for realtime communication, notification and storage.
 Client can give rating to food items.
 
+
 Server Application - Takes order 
 
 Client Application - Gives order
